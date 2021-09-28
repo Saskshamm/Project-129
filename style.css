@@ -1,0 +1,23 @@
+.heading{
+    font-size:23.5px;
+    width:100%;
+    margin:0;
+}
+.span{
+    font-size:10px;
+    color:black; 
+}
+body{
+    background-position: center;
+    background-size: cover;
+}
+.img_div{
+    float: left;
+}
+.disk{
+    width:200px;
+    border-radius: 100px;
+}
+.img1_div{
+    float: right;
+}
